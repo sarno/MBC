@@ -1,5 +1,9 @@
 # Description
 1. Connecting MBC Mandiri and Legalisasi Protkons
+2. Host to Host Connection
+3. Realtime Connection
+4. Protokol komunikasi dari bank mandiri
+
 
 # MBC Rest API Library 
 1. Source Code By Embarcadero Delphi XE10.3
