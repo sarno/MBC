@@ -3,6 +3,7 @@
 2. Host to Host Connection
 3. Realtime Connection
 4. Protokol komunikasi dari bank mandiri
+5. mandiri -> protkons ->mandiri
 
 
 # MBC Rest API Library 
